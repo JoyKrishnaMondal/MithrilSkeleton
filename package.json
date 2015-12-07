@@ -1,0 +1,21 @@
+{
+  "name": "MithrilSkeleton",
+  "version": "0.0.1",
+  "description": "Skeleton App Using Mithril",
+  "author": "joykrishnamondal <joykrishnamondal@gmail.com>",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/JoyKrishnaMondal/MithrilSkeleton.git"
+},
+  "keywords": [
+  "livescript"
+],
+  "dependencies": {
+    "mithril": "*"
+  },
+  "devDependencies": {
+    "simple-livescript-watch": "*"
+  },
+  "license": "MIT"
+}
+  

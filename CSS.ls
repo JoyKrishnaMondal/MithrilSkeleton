@@ -1,0 +1,5 @@
+MCss = {}
+
+
+
+window.MCss = MCss
