@@ -7,7 +7,7 @@ Boilerplate code for creating apps using Mithril with LiveScript.
 If you want to set up a new mithril project 
 
 ```
-git fetch https://github.com/JoyKrishnaMondal/MithrilSkeleton
+git clone https://github.com/JoyKrishnaMondal/MithrilSkeleton
 ```
 
 you will also need to set up a browserify watch to compile your static assets. 
